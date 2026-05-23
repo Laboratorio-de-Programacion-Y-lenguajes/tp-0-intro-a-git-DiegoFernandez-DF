@@ -37,7 +37,7 @@ def glosario_inicial():
 # 3. Llámala dentro del bloque 'if __name__ == "__main__":'
 
 
-def agregar_definicion_alumno():
+def agregar_definicion_PyCharm():
     """
     EJEMPLO: El alumno debe renombrar esta función y completar su término.
     """
@@ -51,4 +51,4 @@ if __name__ == "__main__":
     glosario_inicial()
 
     # El alumno debe agregar la llamada a su función aquí:
-    agregar_definicion_alumno()
+    agregar_definicion_PyCharm()
